@@ -9,4 +9,5 @@ bse_stocks_file = join(cur_dir, collected_data+'/ListOfScrips.csv')
 nse_stocks_file = join(cur_dir, collected_data+'/EQUITY_L.csv')
 f_ratios_file = join(cur_dir, collected_data+'/f_ratios_list.txt')
 money_control_urls_file = join(cur_dir, collected_data+'/money_control_urls.csv')
+finance_csv = join(cur_dir, collected_data+'/f_ratios.csv')
 delimiter = '::'
